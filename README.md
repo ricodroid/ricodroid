@@ -1,17 +1,31 @@
-<h1 align="center">Hi🫨 Ricodroid</h1>
+<h1 align="center">Hello! I'm Ricodroid!</h1>
 
 Thank you for visiting my profile! I work as a web developer in Japan. I have a strong love for JavaScript. My preferred frameworks are Vue and Express. Nice to meet ya!😎
 
 
-
-<img src="[https://24.media.tumblr.com/1ac0b8c42db834a07f85b4581d6b1958/tumblr_mpjzx37Goa1rpm29co2_500.gif](http://www.crashaikou.net/dance.gif)">
-
 <!-- creeper -->
-<img src="https://24.media.tumblr.com/1ac0b8c42db834a07f85b4581d6b1958/tumblr_mpjzx37Goa1rpm29co2_500.gif">
+<p align="center">
+    <img src="https://24.media.tumblr.com/1ac0b8c42db834a07f85b4581d6b1958/tumblr_mpjzx37Goa1rpm29co2_500.gif" alt="Image 1" width="500" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="http://www.crashaikou.net/dance.gif" alt="Image 2" width="200" />
+</p>
+
+
+ <p>I want to connect with you in the world's common programming language!</p>
+ <p>I'm developing a mobile app. I want to connect with you in the world's common programming language!</p>
+ <p><b><em>Let's have happy coding!</em> (^_−)−☆</b></p>
+
+ <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikodroid&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rikodroid&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rikodroid&theme=radical)
+
+
+<p>
+<img src="https://i.pinimg.com/originals/0b/57/e6/0b57e6ae3410d747290079060a37794e.gif" alt="Image 2" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>現在、低迷中だよ〜😒&nbsp;がんばるぞい！</span>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,7 +54,5 @@ Thank you for visiting my profile! I work as a web developer in Japan. I have a 
   <!-- <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>  -->
 </p>
 
-<!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJrOHQzcTlxOGZlcWUxMHU5eDdvNXhyY2trbjIxMHlwaXIydDdyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NiOKY7k4hznnbnkAsl/giphy.gif">-->
 
-<!-- Doom -->
-<!-- <img src="https://i.pinimg.com/originals/e4/44/21/e44421229cd0825a9ba6973baf4387c4.gif"> -->
+<p align="center">がんばろうコミュニティ &copy;</p>
