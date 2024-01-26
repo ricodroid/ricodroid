@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Masashi!</h1>
+<h1 align="center">Hi🫨 Ricodroid</h1>
 
 Thank you for visiting my profile! I work as a web developer in Japan. I have a strong love for JavaScript. My preferred frameworks are Vue and Express. Nice to meet ya!😎
 
-<!-- Akira -->
-<img src="https://i.pinimg.com/originals/39/95/0b/39950b377c4890460964775594a7c717.gif">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whopper1962&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whopper1962&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whopper1962&theme=radical)
+
+<img src="[https://24.media.tumblr.com/1ac0b8c42db834a07f85b4581d6b1958/tumblr_mpjzx37Goa1rpm29co2_500.gif](http://www.crashaikou.net/dance.gif)">
+
+<!-- creeper -->
+<img src="https://24.media.tumblr.com/1ac0b8c42db834a07f85b4581d6b1958/tumblr_mpjzx37Goa1rpm29co2_500.gif">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikodroid&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rikodroid&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rikodroid&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
