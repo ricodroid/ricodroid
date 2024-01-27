@@ -6,6 +6,7 @@
     <img src="http://www.crashaikou.net/dance.gif" alt="Image 2" width="200" />
 </p>
 
+<br>
 
  <p>I want to connect with you in the world's common programming language!</p>
  <p>I'm developing a mobile app. I want to connect with you in the world's common programming language!</p>
@@ -17,13 +18,16 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rikodroid&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rikodroid&theme=radical)
 
+<br>
+<br>
 
 <div>
 <img src="https://i.pinimg.com/originals/0b/57/e6/0b57e6ae3410d747290079060a37794e.gif" alt="Image 2" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span>現在、低迷中だよ〜😒&nbsp;がんばるぞい！</span>
 </div>
 
-
+<br>
+<br>
 <h2 align="left">I enjoy...</h2>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
