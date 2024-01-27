@@ -10,7 +10,7 @@
 
  <p>I want to connect with you in the world's common programming language!</p>
  <p>I'm developing a mobile app. I want to connect with you in the world's common programming language!</p>
- <p><b><em>Let's have happy coding!</em> (^_−)−☆</b></p>
+ <p><b><em>Let's have happy coding!</em></b>   <img src="https://www.emojiall.com/images/240/telegram/1f609.gif" alt="Image 1" width="35" /></p>
 
  <br>
 
@@ -22,7 +22,8 @@
 <br>
 
 <div>
-<img src="https://i.pinimg.com/originals/0b/57/e6/0b57e6ae3410d747290079060a37794e.gif" alt="Image 2" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.pinimg.com/originals/0b/57/e6/0b57e6ae3410d747290079060a37794e.gif" alt="Image 2" width="200" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span>現在、低迷中だよ〜😒&nbsp;がんばるぞい！</span>
 </div>
 
@@ -45,7 +46,8 @@
     <img src="https://skillicons.dev/icons?i=js,vue,jquery,postman,git,docker,vim,androidstudio,aws,bootstrap,firebase,gitlab,laravel,linux" /> 
   </a>
 </p>
-
+https://www.emojiall.com/images/240/telegram/1f609.gif
+<img src="https://www.emojiall.com/images/240/telegram/1f609.gif" alt="Image 1" width="500" />
 <br>
 <br>
 <br>
