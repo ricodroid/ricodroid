@@ -46,8 +46,6 @@
     <img src="https://skillicons.dev/icons?i=js,vue,jquery,postman,git,docker,vim,androidstudio,aws,bootstrap,firebase,gitlab,laravel,linux" /> 
   </a>
 </p>
-https://www.emojiall.com/images/240/telegram/1f609.gif
-<img src="https://www.emojiall.com/images/240/telegram/1f609.gif" alt="Image 1" width="500" />
 <br>
 <br>
 <br>
