@@ -8,7 +8,6 @@
 
 <br>
 
- <p>I want to connect with you in the world's common programming language!</p>
  <p>I want to connect with you in the universal language, “ programming language” !</p>
  <p><b><em>Let's have happy coding!</em></b>   <img src="https://www.emojiall.com/images/240/telegram/1f609.gif" alt="Image 1" width="35" /></p>
 
