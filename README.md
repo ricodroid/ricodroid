@@ -1,5 +1,7 @@
 <h1 align="center">Hello! I'm Ricodroid!</h1>
 
+<p>I'll be active as Ricodoroid404 until I can retrieve the account name Ricodroid....</p>
+
 <!-- creeper -->
 <p align="center">
     <img src="https://24.media.tumblr.com/1ac0b8c42db834a07f85b4581d6b1958/tumblr_mpjzx37Goa1rpm29co2_500.gif" alt="Image 1" width="500" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
