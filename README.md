@@ -25,7 +25,7 @@
 <div>
 <img src="https://i.pinimg.com/originals/0b/57/e6/0b57e6ae3410d747290079060a37794e.gif" alt="Image 2" width="200" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>死ぬこと以外はかすり傷😉&nbsp;がんばるぞい！</span>
+  <span>ベビーマニーコード😉&nbsp;がんばるぞい！</span>
 </div>
 
 <br>
