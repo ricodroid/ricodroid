@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Ricodroid!<br>〜GitHubと水回りは美しく〜</h1>
+<h1 align="center">Ricodroid!<br>〜GitHubと水回りは美しく〜</h1>
 
 <p>I'll be active as Ricodoroid404 until I can retrieve the account name Ricodroid....</p>
 
