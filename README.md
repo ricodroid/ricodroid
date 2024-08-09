@@ -15,9 +15,9 @@
 
  <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricodroid404&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricodroid404&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ricodroid404&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricodroid&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricodroid&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ricodroid&theme=radical)
 
 <br>
 <br>
