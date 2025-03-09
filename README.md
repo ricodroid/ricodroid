@@ -1,4 +1,4 @@
-<h1 align="center">Ricodroid<br>〜GitHubと水回りは美しく〜</h1>
+<h1 align="center">Ricodroid<br>〜GitHub〜</h1>
 
 <!-- creeper -->
 <p align="center">
